@@ -1,3 +1,8 @@
-# 恋爱计时器
+### 恋爱计时器
 
-![](https://user-images.githubusercontent.com/19553554/34415791-7e46353c-ec2b-11e7-8692-22e7523ee1dd.gif)
+请扫描二维码体验
+
+<div align="center">
+<p><b>ONLY FOR MY LADY</b></p>
+<img src="https://user-images.githubusercontent.com/19553554/36578942-57a2fd9c-189b-11e8-82d5-8ab23bb936ad.png">
+</div>
