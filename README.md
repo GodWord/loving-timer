@@ -1,8 +1,24 @@
-### 恋爱计时器
+# 🕐 恋爱计时器
+> 🎉 细水长流
 
-请扫描二维码体验
+### 💻 PC 端
+
+浏览器 Google Chrome 首选。
+
+[http://timer.chenjiandongx.com](http://timer.chenjiandongx.com)
+
+### 📱 移动端
+
+请扫描二维码体验，建议转换为默认浏览器打开。
 
 <div align="center">
-<p><b>ONLY FOR MY LADY</b></p>
-<img src="https://user-images.githubusercontent.com/19553554/36578942-57a2fd9c-189b-11e8-82d5-8ab23bb936ad.png">
+    <img src="">
 </div>
+
+### 👀 预览
+
+![preview]()
+
+
+## License
+MIT [©chenjiandongx](https://github.com/chenjiandongx) ONLY FOR MY PRETTY GIRL
